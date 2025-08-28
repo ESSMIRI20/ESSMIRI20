@@ -9,7 +9,7 @@
 
 ## 🛠️ Skills & Tools  
 - **Languages:** C, Python, JavaScript, PHP, SQL  
-- **Frameworks & Libraries:** React, Vue.js, Node.js, Express.js, Django  
+- **Frameworks & Libraries:** React, Node.js, Django  
 - **Other:** Git, Linux, Docker, Bash, OOP, Data Structures & Algorithms  
 
 ---
@@ -18,8 +18,7 @@
 🔹 [**libft**](https://github.com/oessmiri/libft) – Implementation of essential C library functions  
 🔹 [**philosophers**](https://github.com/oessmiri/philosophers) – Dining philosophers problem (multithreading in C)  
 🔹 [**minishell**](https://github.com/oessmiri/minishell) – A small Unix shell written in C  
-🔹 [**fract-ol**](https://github.com/oessmiri/fract-ol) – Fractals visualizer in C with MLX  
-🔹 [**library_management.py**](https://github.com/oessmiri/library_management) – OOP project in Python  
+🔹 [**fract-ol**](https://github.com/oessmiri/fract-ol) – Fractals visualizer in C with MLX 
 
 ---
 
