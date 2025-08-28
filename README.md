@@ -29,8 +29,8 @@
 ---
 
 ## 📫 Connect with Me  
-- LinkedIn: [Ossama Essmiri](https://www.linkedin.com)  
-- Email: **oessmiri@student.1337.ma**  
+- LinkedIn: [Ossama Essmiri](www.linkedin.com/in/ossama-essmiri)  
+- Email: **oussamaessmiri65@gmail.com**  
 
 ---
 
