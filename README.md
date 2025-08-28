@@ -22,12 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats  
-![Ossama's GitHub stats](https://github-readme-stats.vercel.app/api?username=oessmiri&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oessmiri&layout=compact&theme=tokyonight)  
-
----
-
 ## 📫 Connect with Me  
 - LinkedIn: [Ossama Essmiri](www.linkedin.com/in/ossama-essmiri)  
 - Email: **oussamaessmiri65@gmail.com**  
