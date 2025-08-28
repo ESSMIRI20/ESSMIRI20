@@ -15,9 +15,12 @@
 ---
 
 ## 📂 Featured Projects  
-🔹 [**libft**](https://github.com/ESSMIRI20/Libft) – Implementation of essential C library functions. 
-🔹 [**push_swap**](https://github.com/ESSMIRI20/push_swap) – Sorting algorithm project using stacks in C. 
-🔹 [**fract-ol**](https://github.com/ESSMIRI20/fract_ol) – Fractals visualizer in C with MLX. 
+🔹 [**libft**](https://github.com/ESSMIRI20/Libft) – Implementation of essential C library functions.
+
+🔹 [**push_swap**](https://github.com/ESSMIRI20/push_swap) – Sorting algorithm project using stacks in C.
+
+🔹 [**fract-ol**](https://github.com/ESSMIRI20/fract_ol) – Fractals visualizer in C with MLX.
+
 🔹 [**minishell**](https://github.com/ESSMIRI20/minishell) – A small Unix shell written in C. 
 
 ---
