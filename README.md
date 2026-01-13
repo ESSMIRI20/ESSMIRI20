@@ -3,12 +3,12 @@
 🎓 Student at [1337 Coding School](https://1337.ma) (42 Network)  
 💻 Passionate about **software development, problem-solving, and building impactful projects**  
 🌱 Currently learning **low-level C programming, algorithms, and system programming**  
-⚡ Exploring **Python, JavaScript, and web development** on the side  
+⚡ Exploring **Python, JavaScript, java, and web development** on the side  
 
 ---
 
 ## 🛠️ Skills & Tools  
-- **Languages:** C, Python, JavaScript, PHP, SQL  
+- **Languages:** C, Python, JavaScript, java, SQL
 - **Frameworks & Libraries:** React, Node.js, Django  
 - **Other:** Git, Linux, Docker, Bash, OOP, Data Structures & Algorithms  
 
