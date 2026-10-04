@@ -58,9 +58,7 @@ int main(void)
 **Frameworks & Libraries**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,django" alt="frameworks"/>
-</p>
-
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,spring" alt="frameworks"/></p>
 **Tools & Environment**
 
 <p>
