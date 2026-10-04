@@ -101,6 +101,16 @@ int main(void)
       <img src="https://img.shields.io/badge/Unix-2c5364?style=flat-square" alt="Unix"/>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🐳 <a href="https://github.com/ESSMIRI20/inception">inception</a></h3>
+      <p>Small Docker-based infrastructure: NGINX with TLS, WordPress + php-fpm and MariaDB, each built from its own Dockerfile and orchestrated with Docker Compose and a Makefile.</p>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white" alt="NGINX"/>
+      <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress"/>
+      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" alt="MariaDB"/>
+    </td>
+  </tr>
 </table>
 
 ---
